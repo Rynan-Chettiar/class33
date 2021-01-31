@@ -47,6 +47,7 @@ function setup(){
 }
 
 function draw(){
+    background(0);
     if(backgroundImg)
         background(backgroundImg);
     
